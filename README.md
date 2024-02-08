@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on DeFi and quantitative finance research.
-- 👯 Open to collaborating on DeFi and blockchain projects/research.
-- 📫 How to reach me: [hansson.carl.magnus@gmail.com](mailto:hansson.carl.magnus@gmail.com)
+- 👯 Open to collaborating on DeFi and blockchain projects.
+- 📫 Reach me at [hansson.carl.magnus@gmail.com](mailto:hansson.carl.magnus@gmail.com).
 
 <!--
 **HanssonMagnus/HanssonMagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
